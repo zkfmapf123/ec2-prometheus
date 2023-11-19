@@ -66,8 +66,3 @@
 
 - localhost:9000 형태로 ServiceDiscovery를 운용해서 사용하는 방법
 - [service-discovery](./service-discovery/README.md)
-
-```sh
-    static_configs:
-      - targets: ['localhost:9000']
-```

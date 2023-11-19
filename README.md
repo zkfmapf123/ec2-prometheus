@@ -1,5 +1,12 @@
 # EC2 + Prometheus + Grafana
 
+## Todo
+
+- [x] prometheus
+- [x] node-exporter
+- [ ] nginx-prometheus-exporter
+- [ ] blackbox-exporter
+
 ## Common
 
 ```sh

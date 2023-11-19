@@ -1,0 +1,7 @@
+*.terraform.*.*
+*.tfstate
+*.terraform
+
+## service-discovery
+node_modules
+build
